@@ -46,7 +46,6 @@ app.controller("personalAreaController",["$scope","$localStorage",function ($sco
 			return user.user;
 		}).indexOf($localStorage.user);
 
-		console.log(positionUser)
 		if (category === "view"){
 			var index = $localStorage.users[positionUser].viewed.map(function (movie){
 				return movie.title
@@ -108,7 +107,6 @@ app.controller("movieRatingController",["$scope","$http","$localStorage",functio
 		var arr = [];
 		arr.push(input.slice(0,Math.ceil(input.length/2)))
 		arr.push(input.slice(Math.ceil(input.length/2),input.length))
-		console.log(arr)
 		return arr;
 	}
 
@@ -163,12 +161,10 @@ $scope.leaveEvent = function (idEvent){
 			}).
 			success(function(response) {
 				$scope.codeStatus = response.data;
-				console.log(response)
 				$scope.success = true;
 				$scope.eventos[idEvent].assistants.splice(userIndex,1)
 			}).
 			error(function(response) {
-				console.log("mal")
 				$scope.codeStatus = response || "Request failed";
 			});
 	}
@@ -198,12 +194,10 @@ $scope.goToEvent = function (idEvent){
 			}).
 			success(function(response) {
 				$scope.codeStatus = response.data;
-				console.log(response)
 				$scope.success = true;
 				$scope.eventos[idEvent].assistants.push($localStorage.user)
 			}).
 			error(function(response) {
-				console.log("mal")
 				$scope.codeStatus = response || "Request failed";
 			});
 	}
@@ -273,7 +267,6 @@ app.controller("createEventController",["$scope","$http","$routeParams","$localS
 		$http.get('db/events.json').success(function (response){
 			var index = 0; 
 			$scope.success = false;
-			console.log(response.length)
 			if (response.length !== 0){
 				var lastEvent = response.pop();
 			
@@ -313,11 +306,9 @@ app.controller("createEventController",["$scope","$http","$routeParams","$localS
 			}).
 			success(function(response) {
 				$scope.codeStatus = response.data;
-				console.log(response)
 				$scope.success = true;
 			}).
 			error(function(response) {
-				console.log("mal")
 				$scope.codeStatus = response || "Request failed";
 			});	
 		})
@@ -469,7 +460,6 @@ app.controller("cinemaController",["$scope","$http","$routeParams",function ($sc
     //Get cinema position
      function getCinePosition (data,moviePos,cine){
     	return data[moviePos].cines.map(function(cine){
-    			console.log(cine.name)
 				return cine.name;
 			}).indexOf(cine);
     }
@@ -580,7 +570,6 @@ app.controller("mainController",["$scope","$http",'$localStorage',function($scop
 
 						}).
 						error(function(response) {
-							console.log("mal")
 							$scope.codeStatus = response || "Request failed";
 						});
 
@@ -615,7 +604,6 @@ app.controller("mainController",["$scope","$http",'$localStorage',function($scop
 					var moviePosition = getFavoriteMoviePosition (data,userPosition,movie);
 					//Si no está lo meto
 					if (moviePosition === -1){
-						console.log("no esta")
 						var method = 'POST';
 						var url = 'db/prueba.php';
 						var FormData = {
@@ -644,7 +632,6 @@ app.controller("mainController",["$scope","$http",'$localStorage',function($scop
 						});
 
 			    	}else{// si está se elimina
-			    		console.log("si esta");
 			    		var method = 'POST';
 			    		var url = 'db/prueba.php';
 			    		var FormData = {
@@ -665,7 +652,6 @@ app.controller("mainController",["$scope","$http",'$localStorage',function($scop
 
 						}).
 						error(function(response) {
-							console.log("mal")
 							$scope.codeStatus = response || "Request failed";
 						});
 					}
@@ -709,9 +695,7 @@ app.controller("mainController",["$scope","$http",'$localStorage',function($scop
     
     	if (index === -1) {
     		return false;
-    		console.log("false")
     	}else{
-    		console.log("true")
     		return true;
     	}
     }
@@ -725,9 +709,7 @@ app.controller("mainController",["$scope","$http",'$localStorage',function($scop
     
     	if (index === -1) {
     		return false;
-    		console.log("false")
     	}else{
-    		console.log("true")
     		return true;
     	}
     }
@@ -740,9 +722,7 @@ app.controller("mainController",["$scope","$http",'$localStorage',function($scop
     
     	if (index === -1) {
     		return false;
-    		console.log("false")
     	}else{
-    		console.log("true")
     		return true;
     	}
     }
@@ -797,10 +777,8 @@ app.controller("movieController",["$scope","$http","$routeParams",'$localStorage
 			}).
 			success(function(response) {
 				$scope.codeStatus = response.data;
-				console.log(response)
 			}).
 			error(function(response) {
-				console.log("mal")
 				$scope.codeStatus = response || "Request failed";
 			});
 		});
@@ -839,7 +817,6 @@ app.controller("formRegisterController" ,['$scope','$http','$location','$localSt
 		if (!checkUserName(user)){
 			$scope.success = true;
 			$scope.error = false;
-			console.log("User metido --> "+user)
 			var FormData = {
 				'file': 'users.json',
 				'action': 'newUser',
@@ -858,11 +835,9 @@ app.controller("formRegisterController" ,['$scope','$http','$location','$localSt
 			}).
 			success(function(response) {
 				$scope.codeStatus = response.data;
-				console.log(response)
 				
 			}).
 			error(function(response) {
-				console.log("mal")
 				$scope.codeStatus = response || "Request failed";
 			});
 		}
@@ -880,10 +855,8 @@ app.controller("formRegisterController" ,['$scope','$http','$location','$localSt
 			}).indexOf(username)
 
 			if (index === -1){
-				console.log("no esta")
 				return false;
 			}else{
-				console.log("esta")
 				return true;
 			}
 	}
@@ -928,13 +901,11 @@ app.controller('ratingController',["$scope","$http","$localStorage",function ($s
 				return movie.title;
 			}).indexOf($localStorage.movie);
 
-			console.log("posMov " + positionMovie)
 			
 			var positionUser = data[positionMovie].rating.map(function (rating){
 				return rating.user;
 			}).indexOf($localStorage.user);
 
-			console.log("posUser " + positionUser)
 			//If user  not comment before
 			if(positionUser === -1){
 				$scope.rate = 0;
@@ -952,7 +923,6 @@ app.controller('ratingController',["$scope","$http","$localStorage",function ($s
 
 	$scope.saveValue = function (rate){
 		//save rating , busco usuario, si esta sobreescribo, si no que meta uno nuevo
-	  console.log(rate);
 	  var url="db/cartelera.json";
 		$http.get(url).success(function (data){
 			//Find if user has comment before
@@ -960,13 +930,11 @@ app.controller('ratingController',["$scope","$http","$localStorage",function ($s
 				return movie.title;
 			}).indexOf($localStorage.movie);
 
-			console.log("posMov " + positionMovie)
 			
 			var positionUser = data[positionMovie].rating.map(function (rating){
 				return rating.user;
 			}).indexOf($localStorage.user);
 
-			console.log("posUser " + positionUser)
 			//If user  not comment before
 			if(positionUser === -1){
 			
@@ -978,7 +946,6 @@ app.controller('ratingController',["$scope","$http","$localStorage",function ($s
 					'rating': rate
 					
 				};
-				console.log(FormData)
 				$http({
 					method:'POST',
 					url: 'db/prueba.php',
@@ -986,15 +953,11 @@ app.controller('ratingController',["$scope","$http","$localStorage",function ($s
 					headers: {'Content-Type': 'application/x-www-form-urlencoded'},
 				}).
 				success(function(response) {
-					console.log("succ")
 					$scope.codeStatus = response.data;
-					console.log(response)
 					$localStorage.cartelera[positionMovie].rating.push({user: $localStorage.user,rating: rate})
 					
-					console.log($localStorage.cartelera);
 				}).
 				error(function(response) {
-					console.log("mal")
 					$scope.codeStatus = response || "Request failed";
 				});
 			}else{ //Update rating
@@ -1015,15 +978,12 @@ app.controller('ratingController',["$scope","$http","$localStorage",function ($s
 				}).
 				success(function(response) {
 					$scope.codeStatus = response.data;
-					console.log(response)
 					$localStorage.cartelera[positionMovie].rating[positionUser].user= $localStorage.user;
 					$localStorage.cartelera[positionMovie].rating[positionUser].rating =  rate;
 					
-					console.log($localStorage.cartelera);
 				
 				}).
 				error(function(response) {
-					console.log("mal")
 					$scope.codeStatus = response || "Request failed";
 				});
 			}
