@@ -1,5 +1,5 @@
 
-var app = angular.module('cine',['ui.bootstrap','ngRoute','ngStorage','ngCookies','uiGmapgoogle-maps','ngAnimate','ngMessages']);//en el array inyectamos dependencias
+var app = angular.module('cine',['ui.bootstrap','ngRoute','ngCookies','uiGmapgoogle-maps','ngAnimate','ngMessages']);//en el array inyectamos dependencias
 
 app.config(['$routeProvider','uiGmapGoogleMapApiProvider',function($routeProvider,GoogleMapApiProviders) {
 	$routeProvider
