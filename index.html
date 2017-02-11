@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="es" ng-app="cine">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<!-- Bootstrap Vanilla CSS -->
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+
+	<!-- Bootstrap Material Design CSS -->
+	<link href="node_modules/bootstrap-material-design/dist/css/bootstrap-material-design.css" rel="stylesheet">
+	<link href="node_modules/bootstrap-material-design/dist/css/ripples.min.css" rel="stylesheet">
+
+	<!-- Material Design fonts -->
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:300,400,500,700" type="text/css">
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+	<!-- Font Awesome -->
+	<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+
+	<!-- Custom CSS -->
+	<link rel="stylesheet" type="text/css" href="css/mystyle.css">
+
+	<!--JQuery -->
+	<script type="text/javascript" src="js/jquery-2.2.4.min.js"></script>
+
+	
+	
+
+	<style>
+		.angular-google-map-container {
+			position: absolute;
+			top: 0;
+			bottom: 0;
+			right: 0;
+			left: 0;    
+		}
+	</style>
+	<title>Secine</title>
+</head>
+
+<body>
+
+	<div id="wrap">
+	
+		<div id ="cont" ng-view></div>
+	</div>
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6">
+					<h2>SECINE</h2>
+					<small>Copyright @ 2016 Secine. All Rights Reserved. Design by José Ramón.</small>
+					<ul class="list-unstyled list-inline">
+						<li><i class="fa fa-facebook-official" aria-hidden="true"></i></li>
+						<li><i class="fa fa-twitter-square" aria-hidden="true"></i></li>
+						<li><i class="fa fa-github" aria-hidden="true"></i></li>
+					</ul>	
+				</div>
+				<div class="col-md-6">
+					<h2>About</h2>
+					<p>Web realizada para la realización de quedadas para ir al cine en grupo. EL objetivo es conocer gente con los mismos interéses con los que disfrutar del mejor cine con la mejor compañía.</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- Angular -->
+	<script type="text/javascript" src="js/angular.min.js"></script>
+	<script type="text/javascript" src="js/angular-route.min.js"></script>
+	<script type="text/javascript" src="js/angular-messages.min.js"></script>
+	<script type="text/javascript" src="js/angular-animate.min.js"></script>
+	<script type="text/javascript" src="js/angular-touch.min.js"></script>
+	<script type="text/javascript" src="js/angular-cookies.min.js"></script>
+	<script src="node_modules/ngstorage/ngstorage.min.js"></script>
+
+	<!-- angular-google-maps -->
+	<script src="js/lodash.js"></script>
+	<script src="js/angular-simple-logger.js"></script>
+	<script src="js/angular-google-maps.min.js"></script>
+
+	<!-- Bootstrap -->
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+
+	<!-- Angular UI Bootstrap -->
+	<script type="text/javascript" src="js/ui-bootstrap-tpls-1.3.3.min.js"></script>
+	
+	<!-- My app -->
+	<script type="text/javascript" src="js/app.js"></script>
+
+	<!-- Material Design for Bootstrap -->
+	<script src="node_modules/bootstrap-material-design/dist/js/material.js"></script>
+	<script src="node_modules/bootstrap-material-design/dist/js/ripples.min.js"></script>
+	<script>
+		$.material.init();
+		$("#dropdown-menu select").dropdown();
+
+		$("#menu-toggle").click(function(e) {
+			e.preventDefault();
+			$("#wrapper").toggleClass("toggled");
+		});
+	</script>
+	<!-- Google Maps Javascript API -->
+	<!--<script src="http://maps.google.com/maps/api/js?key=AIzaSyCVnamkRwbgZYCB47rqqGuEmF-KpOCKYXE" ></script>-->
+	
+</body>
+</html>

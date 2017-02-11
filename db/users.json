@@ -1,0 +1,161 @@
+[
+    {
+        "user": "user1",
+        "pass": "pass1",
+        "name": "usuario1",
+        "apellido": "apellido1",
+        "email": "email1@mail.com",
+        "viewed": [
+            {
+                "title": "Antes de ti",
+                "duration": "110",
+                "genders": [
+                    "Drama",
+                    "Romance"
+                ]
+            },
+            {
+                "title": "Expediente Warren: El Caso Enfield",
+                "duration": "134",
+                "genders": [
+                    "Terror"
+                ]
+            }
+        ],
+        "bookmark": [
+            {
+                "title": "Buscando a Dory",
+                "duration": "96",
+                "genders": [
+                    "Acentura",
+                    "Animación",
+                    "Comedia"
+                ]
+            },
+            {
+                "title": "Antes de ti",
+                "duration": "110",
+                "genders": [
+                    "Drama",
+                    "Romance"
+                ]
+            },
+            {
+                "title": "Ninja Turtles: Fuera de las sombras",
+                "duration": "112",
+                "genders": [
+                    "Accion",
+                    "Aventura",
+                    "Comedia"
+                ]
+            }
+        ],
+        "favorite": [
+            {
+                "title": "Expediente Warren: El Caso Enfield",
+                "duration": "134",
+                "genders": [
+                    "Terror"
+                ]
+            },
+            {
+                "title": "Independence Day: Contraataque",
+                "duration": "120",
+                "genders": [
+                    "Accion",
+                    "Aventura",
+                    "Ciencia Ficción"
+                ]
+            },
+            {
+                "title": "Dioses de Egipto",
+                "duration": "97",
+                "genders": [
+                    "Acción",
+                    "Aventura",
+                    "Fantasía"
+                ]
+            },
+            {
+                "title": "Antes de ti",
+                "duration": "110",
+                "genders": [
+                    "Drama",
+                    "Romance"
+                ]
+            },
+            {
+                "title": "Un espía y medio",
+                "duration": "114",
+                "genders": [
+                    "Accion",
+                    "Comedia"
+                ]
+            }
+        ]
+    },
+    {
+        "user": "user2",
+        "pass": "pass2",
+        "name": "usuario2",
+        "apellido": "apellido2",
+        "email": "email2@mail.com",
+        "viewed": [],
+        "bookmark": [],
+        "favorite": []
+    },
+    {
+        "user": "user3",
+        "pass": "pass3",
+        "name": "usuario3",
+        "apellido": "apellido3",
+        "email": "email3@mail.com",
+        "viewed": [],
+        "bookmark": [],
+        "favorite": []
+    },
+    {
+        "user": "octavio",
+        "password": "123",
+        "firstname": "octavio",
+        "lastname": "hermoso",
+        "mail": "octavio@gmail.com",
+        "groups": [],
+        "favorite": [],
+        "viewed": [],
+        "bookmark": []
+    },
+    {
+        "user": "werewrwer",
+        "password": "pass1",
+        "firstname": "octavio",
+        "lastname": "hermoso",
+        "mail": "octavio@gmail.com",
+        "groups": [],
+        "favorite": [],
+        "viewed": [],
+        "bookmark": []
+    },
+    {
+        "user": "user5",
+        "password": "qweqwe",
+        "firstname": "qweqwe",
+        "lastname": "qeqwe",
+        "mail": "qweqeqwe",
+        "groups": [],
+        "favorite": [],
+        "viewed": [],
+        "bookmark": []
+    },
+    {
+        "user": "user7",
+        "password": "pass7",
+        "firstname": "nombre7",
+        "lastname": "apellido7",
+        "mail": "correo7@sdsd.com",
+        "groups": [],
+        "favorite": [],
+        "viewed": [],
+        "bookmark": []
+    }
+]

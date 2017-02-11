@@ -1,0 +1,19 @@
+<div id ="navigator-user-menu" class="container-fluid back-user-menu" ng-controller="userSubmenuController">
+	<div id ="user-menu" class="container back-user-menu">
+		<div class="row">
+			<div class="col-xs-12 col-md-8 col-md-offset-2 ">
+				<ul class=" nav nav-tabs text-center back-user-menu" >
+					<li role="presentation" class="active-user-menu col-xs-12 col-md-4" ng-class="{ activesubmenu: isActive('/main') }">
+						<a class="vcenter" href="#/main">Cartelera</a>
+					</li>
+					<li role="presentation" class="col-xs-12  col-md-4" ng-class="{ activesubmenu: isActive('/movie-rating') }">
+						<a class="vcenter" href="#/movie-rating">Películas más valoradas</a>
+					</li>
+					<li role="presentation" class="col-xs-12  col-md-4" ng-class="{ activesubmenu: isActive('/events') }">
+						<a href="#/events">Eventos</a>
+					</li>					
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>

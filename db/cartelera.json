@@ -1,0 +1,3070 @@
+[
+    {
+        "title": "Antes de ti",
+        "synopsis": "Louisa Lou Clark (Emilia Clarke) es una entusiasta, ingenua y alegre veinteañera que jamás ha salido de su pueblo, y que debe buscar urgentemente un trabajo para mantener a su familia. En su camino se cruza con Will Traynor (Sam Claflin), un exitoso hombre de negocios que también creció en el mismo pueblo, al que ha vuelto tras sufrir un accidente después de que lo chocara una moto y lo deja en silla de ruedas. Debido a su condición, este ex-aventurero ha caído en una profunda amargura, por lo que cada vez más está decidido a suicidarse. El trabajo de Lou será cuidar a Will. Será entonces cuando la determinación, la dulzura y el optimismo de Lou harán que Will comprenda que la vida es algo que merece la pena vivir.",
+        "img_url": "img\/cartelera\/antes_de_mi.jpg",
+        "duration": "110",
+        "genders": [
+            "Drama",
+            "Romance"
+        ],
+        "comments": [
+            {
+                "user": "user1",
+                "comment": "coment1"
+            },
+            {
+                "user": "user1",
+                "comment": "comentario 2"
+            },
+            {
+                "user": "user1",
+                "comment": "comentario 3"
+            },
+            {
+                "user": "user1",
+                "comment": "3213213"
+            }
+        ],
+        "rating": [
+            {
+                "user": "user2",
+                "rating": 8
+            },
+            {
+                "user": "user1",
+                "rating": 3
+            }
+        ],
+        "cines": [
+            {
+                "name": "Cinesa Plaza de Armas 3D",
+                "direction": "Plaza La Legión 8, CP41001, Sevilla (Sevilla).",
+                "tlf": "902333231",
+                "long": 37.3919158,
+                "lat": -6.0048652,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "16:00",
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "13:00",
+                            "18:25"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "13:00",
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "13:00",
+                            "18:25"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "13:00",
+                            "18:25"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "13:00",
+                            "18:25"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cinesur Nervión",
+                "direction": "Avenida Luis de Morales , CP41005, Sevilla (Sevilla)",
+                "tlf": "954533035",
+                "long": 37.3836679,
+                "lat": -5.9744633,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "16:00",
+                            "21:00"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "16:00",
+                            "18:25"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "13:00",
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "13:00",
+                            "20:25",
+                            "00:15"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "13:00",
+                            "17:20",
+                            "00:25"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "13:00",
+                            "18:25"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ábaco Cines Camas",
+                "direction": "Avenida Poeta Muñoz San Román , CP41900, Camas (Sevilla).",
+                "tlf": "954391012",
+                "long": 37.3921715,
+                "lat": -6.0298088,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "16:00",
+                            "19:00",
+                            "21:00"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "16:00"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "13:00",
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "13:00",
+                            "20:25",
+                            "00:15"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "13:00",
+                            "00:25"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "13:00",
+                            "18:25"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Buscando a Dory",
+        "synopsis": "Un año después de los acontecimientos narrados en Buscando a Nemo, Dory vive apaciblemente con Marlin y su hijo Nemo. Pero durante un viaje para ver cómo las mantarrayas migran de vuelta a casa, los problemas de memoria de Dory parecen desaparecer durante un segundo: recuerda que tiene una familia e inmediatamente decide emprender viaje para reencontrarse con sus padres, a los que perdió hace años.",
+        "img_url": "img\/cartelera\/buscando_a_dory.jpg",
+        "duration": "96",
+        "genders": [
+            "Acentura",
+            "Animación",
+            "Comedia"
+        ],
+        "comments": [
+            {
+                "user": "user1",
+                "comment": "comment1"
+            },
+            {
+                "user": "user1",
+                "comment": "comment 2"
+            },
+            {
+                "user": "user1",
+                "comment": "comment3"
+            },
+            {
+                "user": "user1",
+                "comment": "comm4"
+            },
+            {
+                "user": "user1",
+                "comment": "comm5"
+            },
+            {
+                "user": "user1",
+                "comment": "comment6"
+            },
+            {
+                "user": "user1",
+                "comment": "comment7"
+            },
+            {
+                "user": "user1",
+                "comment": "comment8"
+            },
+            {
+                "user": "user1",
+                "comment": "comment9"
+            },
+            {
+                "user": "user1",
+                "comment": "comment10"
+            },
+            {
+                "user": "user1",
+                "comment": null
+            },
+            {
+                "user": "user1",
+                "comment": "comment"
+            }
+        ],
+        "rating": [
+            {
+                "user": "user1",
+                "rating": 6
+            }
+        ],
+        "cines": [
+            {
+                "name": "Cinesa Plaza de Armas 3D",
+                "direction": "Plaza La Legión 8, CP41001, Sevilla (Sevilla).",
+                "tlf": "902333231",
+                "long": 37.3919158,
+                "lat": -6.0048652,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "16:00",
+                            "18:00",
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "15:00",
+                            "18:25",
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "13:00",
+                            "17:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "13:00",
+                            "18:25",
+                            "22:00"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "13:00",
+                            "18:25",
+                            "21:00"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "13:00",
+                            "18:25"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cinesur Nervión",
+                "direction": "Avenida Luis de Morales , CP41005, Sevilla (Sevilla)",
+                "tlf": "954533035",
+                "long": 37.3836679,
+                "lat": -5.9744633,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "14:05",
+                            "16:30",
+                            "00:00"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "16:00",
+                            "18:25",
+                            "20:45"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "13:00",
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00",
+                            "18:00"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "13:00",
+                            "20:25",
+                            "00:15"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "13:00",
+                            "16:20",
+                            "23:25"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "13:00",
+                            "18:25",
+                            "21:00"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ábaco Cines Camas",
+                "direction": "Avenida Poeta Muñoz San Román , CP41900, Camas (Sevilla).",
+                "tlf": "954391012",
+                "long": 37.3921715,
+                "lat": -6.0298088,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "16:00",
+                            "18:15",
+                            "20:30 ",
+                            "22:45"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "16:00",
+                            "18:00",
+                            "20:00"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "13:00",
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00",
+                            ""
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "13:00",
+                            "20:25",
+                            "00:15"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "13:00",
+                            "00:25"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "13:00",
+                            "18:25",
+                            "21:00"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Expediente Warren: El Caso Enfield",
+        "synopsis": "Secuela de la exitosa Expediente Warren (2013), que lleva de nuevo a la pantalla otro caso real de los expedientes de los renombrados demonólogos Ed y Lorraine Warren. En este caso ambos viajarán al norte de Londres para ayudar a una madre soltera que tiene a su cargo cuatro hijos y que vive sola con ellos en una casa plagada de espíritus malignos.",
+        "img_url": "img\/cartelera\/expediente_warren.jpg",
+        "duration": "134",
+        "genders": [
+            "Terror"
+        ],
+        "comments": [
+            {
+                "user": "user1",
+                "comment": "no me gusta"
+            },
+            {
+                "user": "user1",
+                "comment": "ewrwerwer"
+            },
+            {
+                "user": "user1",
+                "comment": "wqeqweqwe"
+            }
+        ],
+        "rating": [
+            {
+                "user": "user1",
+                "rating": 7
+            }
+        ],
+        "cines": [
+            {
+                "name": "Cinesa Plaza de Armas 3D",
+                "direction": "Plaza La Legión 8, CP41001, Sevilla (Sevilla).",
+                "tlf": "902333231",
+                "long": 37.3919158,
+                "lat": -6.0048652,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "22:15"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "18:25",
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "17:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00",
+                            "19:15",
+                            "22:00"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "18:25",
+                            "22:00"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "18:25",
+                            "21:00",
+                            "00:00"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "18:25",
+                            "20:00"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cinesur Nervión",
+                "direction": "Avenida Luis de Morales , CP41005, Sevilla (Sevilla)",
+                "tlf": "954533035",
+                "long": 37.3836679,
+                "lat": -5.9744633,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "16:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "16:00",
+                            "18:25,20:45"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00",
+                            "18:00",
+                            "21:15"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "20:25",
+                            "00:15"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "17:35",
+                            "20:00",
+                            "23:25"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "18:25",
+                            "21:00"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ábaco Cines Camas",
+                "direction": "Avenida Poeta Muñoz San Román , CP41900, Camas (Sevilla).",
+                "tlf": "954391012",
+                "long": 37.3921715,
+                "lat": -6.0298088,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "16:00",
+                            "18:15",
+                            "20:30 ",
+                            "22:45"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "16:00",
+                            "18:00",
+                            "20:00"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "13:00",
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00",
+                            ""
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "13:00",
+                            "20:25",
+                            "00:15"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "13:00",
+                            "00:25"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "13:00",
+                            "18:25",
+                            "21:00"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Independence Day: Contraataque",
+        "synopsis": "Siempre supimos que volverían. Después de que INDEPENDENCE DAY redefiniera el género, el siguiente capítulo épico asiste a una catástrofe global de unas dimensiones inimaginables. Usando tecnología alienígena recuperada, las naciones de la Tierra han colaborado en un programa de defensa colosal para la protección del planeta. Pero nada puede prepararles para la fuerza avanzada y sin precedentes de los alienígenas. Únicamente la ingenuidad y valentía de unos pocos hombres y mujeres podrá salvar a la humanidad de la extinción.",
+        "img_url": "img\/cartelera\/independence_day.jpg",
+        "duration": "120",
+        "genders": [
+            "Accion",
+            "Aventura",
+            "Ciencia Ficción"
+        ],
+        "comments": [],
+        "rating": [],
+        "cines": [
+            {
+                "name": "Cinesa Plaza de Armas 3D",
+                "direction": "Plaza La Legión 8, CP41001, Sevilla (Sevilla).",
+                "tlf": "902333231",
+                "long": 37.3919158,
+                "lat": -6.0048652,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "22:00"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "17:25",
+                            "21:00"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00",
+                            "19:15",
+                            "22:00"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "18:25",
+                            "22:00",
+                            "00:15"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "18:45",
+                            "21:00",
+                            "00:00"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "18:25",
+                            "20:00"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cinesur Nervión",
+                "direction": "Avenida Luis de Morales , CP41005, Sevilla (Sevilla)",
+                "tlf": "954533035",
+                "long": 37.3836679,
+                "lat": -5.9744633,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "21:30"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "16:00",
+                            "20:45"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00",
+                            "19:30",
+                            "21:15"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "20:25",
+                            "00:15"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "20:00",
+                            "23:25"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "18:25",
+                            "21:00"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ábaco Cines Camas",
+                "direction": "Avenida Poeta Muñoz San Román , CP41900, Camas (Sevilla).",
+                "tlf": "954391012",
+                "long": 37.3921715,
+                "lat": -6.0298088,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "18:15",
+                            "20:30 ",
+                            "22:45"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "18:30",
+                            "21:00"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "16:00",
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00",
+                            "21:45"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "13:45",
+                            "20:25",
+                            "00:15"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "13:30",
+                            "00:25"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "14:30",
+                            "18:25",
+                            "22:10"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Mi amigo el gigante",
+        "synopsis": "Sofía es una niña huérfana que vive en un orfanato, una noche en la que no puede dormir decide asomarse a la ventana. Por la calle ve algo que le deja sorprendida, un hombre muy alto que se asoma a las ventanas de las casas con una trompeta a la que sopla para que un polvo caiga sobre las camas. Cuando el gigante ve que está siendo espiado coge a Sofía de la mano y se la lleva consigo al País de los Gigantes.",
+        "img_url": "img\/cartelera\/mi_amigo_el_gigante.jpg",
+        "duration": "117 ",
+        "genders": [
+            "Familia",
+            "Fantasía"
+        ],
+        "comments": [],
+        "rating": [
+            {
+                "user": "user1",
+                "rating": 2
+            }
+        ],
+        "cines": [
+            {
+                "name": "Cinesa Plaza de Armas 3D",
+                "direction": "Plaza La Legión 8, CP41001, Sevilla (Sevilla).",
+                "tlf": "902333231",
+                "long": 37.3919158,
+                "lat": -6.0048652,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "20:00",
+                            "22:00"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "20:25",
+                            "22:15"
+                        ]
+                    },
+                    {
+                        "name": "Miércoles",
+                        "hora": [
+                            "17:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00",
+                            "19:15"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "18:25",
+                            "22:00"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "18:45",
+                            "21:00"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "18:25",
+                            "20:00"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cinesur Nervión",
+                "direction": "Avenida Luis de Morales , CP41005, Sevilla (Sevilla)",
+                "tlf": "954533035",
+                "long": 37.3836679,
+                "lat": -5.9744633,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "21:30"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "16:00",
+                            "20:45"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "16:30",
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "19:30",
+                            "21:15"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "20:25",
+                            "22:45"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "20:00",
+                            "23:25"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "18:25",
+                            "21:00"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ábaco Cines Camas",
+                "direction": "Avenida Poeta Muñoz San Román , CP41900, Camas (Sevilla).",
+                "tlf": "954391012",
+                "long": 37.3921715,
+                "lat": -6.0298088,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "18:15",
+                            "22:45"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "18:30",
+                            "21:00"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "17:00",
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00",
+                            "21:45"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "13:45",
+                            "20:25",
+                            "00:15"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "14:30",
+                            "21:25"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "14:30",
+                            "18:25",
+                            "22:10"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Money Monster",
+        "synopsis": "Lee Gates (George Clooney) es toda una personalidad televisiva, un famoso y grandilocuente presentador de televisión de un programa sobre finanzas. Gracias a la información privilegiada que posee, se convierte en un gurú de Wall Street. Pero las cosas se complican cuando Gates recomienda a sus espectadores invertir en acciones tecnológicas de alto riesgo, que misteriosamente se derrumban en la bolsa. Es entonces cuando el joven Kyle Budwell (Jack O'Connell), una de las personas que ha perdido todo el dinero de su familia por esta mala inversión, decide vengarse. Durante la emisión en directo del programa, el furioso inversor estafado secuestra al periodista, a su productora Patty Fenn (Julia Roberts) y a todo su equipo en directo. En tiempo real, Gates y Fenn deberán encontrar la manera de mantenerse con vida, mientras tratan de descubrir la verdad que hay detrás de todo el embrollo que rodea ese dinero.",
+        "img_url": "img\/cartelera\/money_monster.jpg",
+        "duration": "99",
+        "genders": [
+            "Drama",
+            "Suspense"
+        ],
+        "comments": [
+            {
+                "user": "user1",
+                "comment": "erwerwerwerwerwer"
+            },
+            {
+                "user": "user1",
+                "comment": "werwerwerwer"
+            },
+            {
+                "user": "user1",
+                "comment": "rwerwer"
+            }
+        ],
+        "rating": [
+            {
+                "user": "user1",
+                "rating": 10
+            }
+        ],
+        "cines": [
+            {
+                "name": "Cinesa Plaza de Armas 3D",
+                "direction": "Plaza La Legión 8, CP41001, Sevilla (Sevilla).",
+                "tlf": "902333231",
+                "long": 37.3919158,
+                "lat": -6.0048652,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "16:00",
+                            "18:00",
+                            "20:25",
+                            "22:50"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "22:15"
+                        ]
+                    },
+                    {
+                        "name": "Miércoles",
+                        "hora": [
+                            "17:25",
+                            "20:25",
+                            "23:00"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00",
+                            "19:15"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "18:25",
+                            "22:00",
+                            "00:15"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "18:45",
+                            "21:00"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "18:25",
+                            "20:00"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cinesur Nervión",
+                "direction": "Avenida Luis de Morales , CP41005, Sevilla (Sevilla)",
+                "tlf": "954533035",
+                "long": 37.3836679,
+                "lat": -5.9744633,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "21:30"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "16:00",
+                            "20:45"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "17:30",
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "19:45",
+                            "21:15"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "20:25",
+                            "22:45"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "19:00",
+                            "23:25"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "18:25",
+                            "21:00"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ábaco Cines Camas",
+                "direction": "Avenida Poeta Muñoz San Román , CP41900, Camas (Sevilla).",
+                "tlf": "954391012",
+                "long": 37.3921715,
+                "lat": -6.0298088,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "18:15",
+                            "22:45"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "18:30",
+                            "21:00"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "17:00",
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00",
+                            "21:45"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "13:45",
+                            "20:25",
+                            "00:15"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "14:30",
+                            "21:25"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "14:30",
+                            "18:25",
+                            "22:10"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Ninja Turtles: Fuera de las sombras",
+        "synopsis": "Cuando el malvado Shredder escapa de la muerte, regresa con un perverso plan: acabar con los cuatro superhéroes: Rapahel, Leonardo, Michelangelo y Donatello. Para ello, secuestra al profesor Jordan Perry y así conseguir la pócima que hizo posible la mutación de las tortugas. Una vez en su poder, recluta a dos criaturas, Rahzar y Tokka, para que destruyan a Las Tortugas Ninja.",
+        "img_url": "img\/cartelera\/ninja_turtles.jpg",
+        "duration": "112",
+        "genders": [
+            "Accion",
+            "Aventura",
+            "Comedia"
+        ],
+        "comments": [],
+        "rating": [],
+        "cines": [
+            {
+                "name": "Cinesa Plaza de Armas 3D",
+                "direction": "Plaza La Legión 8, CP41001, Sevilla (Sevilla).",
+                "tlf": "902333231",
+                "long": 37.3919158,
+                "lat": -6.0048652,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "15:50",
+                            "18:10"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "22:15"
+                        ]
+                    },
+                    {
+                        "name": "Miércoles",
+                        "hora": [
+                            "15:25",
+                            "20:25",
+                            "23:00"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00",
+                            "19:15",
+                            "21:00"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "18:25",
+                            "22:00",
+                            "00:15"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "14:50",
+                            "18:45",
+                            "21:00"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "18:25",
+                            "20:00"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cinesur Nervión",
+                "direction": "Avenida Luis de Morales , CP41005, Sevilla (Sevilla)",
+                "tlf": "954533035",
+                "long": 37.3836679,
+                "lat": -5.9744633,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "18:10",
+                            "21:30"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "16:15",
+                            "20:00"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "17:30",
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "18:45",
+                            "21:15"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "16:00",
+                            "20:25",
+                            "22:45"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "15:30",
+                            "19:00",
+                            "23:25"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "15:30",
+                            "18:25",
+                            "21:00"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ábaco Cines Camas",
+                "direction": "Avenida Poeta Muñoz San Román , CP41900, Camas (Sevilla).",
+                "tlf": "954391012",
+                "long": 37.3921715,
+                "lat": -6.0298088,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "18:15",
+                            "22:45"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "18:30",
+                            "21:00"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "17:00",
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00",
+                            "21:45"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "15:45",
+                            "19:25",
+                            "00:15"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "14:30",
+                            "21:25"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "14:30",
+                            "18:25",
+                            "22:10"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Un espía y medio",
+        "synopsis": "Un letal agente del la CIA (Johnson), víctima de acoso escolar en su adolescencia, vuelve a casa para asistir a una reunión de antiguos alumnos. Con la excusa de estar trabajando en un caso secreto, consigue la ayuda del chico popular en los años de Instituto (Hart), que ahora es un aburrido contable y vive añorando sus años de gloria. Para cuando el pobre oficinista se da cuenta del embrollo en el que se está metiendo, es demasiado tarde para desentenderse y su nuevo amigo, con maniobras cada vez más impredecibles, le arrastra a un mundo de tiroteos, traiciones y espionaje que les obligará a jugarse el cuello en incontables ocasiones. ",
+        "img_url": "img\/cartelera\/un_espia_y_medio.jpg",
+        "duration": "114",
+        "genders": [
+            "Accion",
+            "Comedia"
+        ],
+        "comments": [],
+        "rating": [
+            {
+                "user": "user1",
+                "rating": 2
+            }
+        ],
+        "cines": [
+            {
+                "name": "Cinesa Plaza de Armas 3D",
+                "direction": "Plaza La Legión 8, CP41001, Sevilla (Sevilla).",
+                "tlf": "902333231",
+                "long": 37.3919158,
+                "lat": -6.0048652,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "22:15"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "18:25",
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "17:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00",
+                            "19:15",
+                            "22:00"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "18:25",
+                            "22:00"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "18:25",
+                            "21:00",
+                            "00:00"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "18:25",
+                            "20:00"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cinesur Nervión",
+                "direction": "Avenida Luis de Morales , CP41005, Sevilla (Sevilla)",
+                "tlf": "954533035",
+                "long": 37.3836679,
+                "lat": -5.9744633,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "16:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "16:00",
+                            "18:25,20:45"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00",
+                            "18:00",
+                            "21:15"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "20:25",
+                            "00:15"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "17:35",
+                            "20:00",
+                            "23:25"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "18:25",
+                            "21:00"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ábaco Cines Camas",
+                "direction": "Avenida Poeta Muñoz San Román , CP41900, Camas (Sevilla).",
+                "tlf": "954391012",
+                "long": 37.3921715,
+                "lat": -6.0298088,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "16:00",
+                            "18:15",
+                            "20:30 ",
+                            "22:45"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "16:00",
+                            "18:00",
+                            "20:00"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "13:00",
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00",
+                            ""
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "13:00",
+                            "20:25",
+                            "00:15"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "13:00",
+                            "00:25"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "13:00",
+                            "18:25",
+                            "21:00"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Warcraft: El Origen",
+        "synopsis": "Adaptación cinematográfica del exitoso videojuego, que ha generado todo un fenómeno sociológico a nivel mundial con su modo online. La historia gira en torno a un mundo de fantasía en el que se libran todo tipo de batallas y habitan muchas especies distintas (como humanos, orcos, enanos...). Bajo una máscara de jugabilidad basada en el rol, el juego llega a la gran pantalla para contar una historia de épicas proporciones en este irreal y fantástico mundo. Una batalla se está forjando entre las entrañas de los bosques, y alcanzará a todo habitante, enfrentándolos en una guerra sin precedentes en esta película que no deja indiferente a los fieles seguidores y a los novatos. Hechizos, magia y muchas armas son los complementos para una de las versiones cinematográficas de videojuego más esperadas de todos los tiempos.",
+        "img_url": "img\/cartelera\/warcraft.jpg",
+        "duration": "123",
+        "genders": [
+            "Accion",
+            "Aventura",
+            "Fantasía"
+        ],
+        "comments": [],
+        "rating": [
+            {
+                "user": "user1",
+                "rating": 6
+            },
+            {
+                "user": "user1",
+                "rating": 5
+            }
+        ],
+        "cines": [
+            {
+                "name": "Cinesur Nervión",
+                "direction": "Avenida Luis de Morales , CP41005, Sevilla (Sevilla)",
+                "tlf": "954533035",
+                "long": 37.3836679,
+                "lat": -5.9744633,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "21:30"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "16:00",
+                            "20:45"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00",
+                            "19:30",
+                            "21:15"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "20:25",
+                            "00:15"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "20:00",
+                            "23:25"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "18:25",
+                            "21:00"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ábaco Cines Camas",
+                "direction": "Avenida Poeta Muñoz San Román , CP41900, Camas (Sevilla).",
+                "tlf": "954391012",
+                "long": 37.3921715,
+                "lat": -6.0298088,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "18:15",
+                            "20:30 ",
+                            "22:45"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "18:30",
+                            "21:00"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "16:00",
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00",
+                            "21:45"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "13:45",
+                            "20:25",
+                            "00:15"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "13:30",
+                            "00:25"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "14:30",
+                            "18:25",
+                            "22:10"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "1944",
+        "synopsis": "La Batalla de Tannenberg, de 1944 fue uno de los episodios más sangrientos del Frente Oriental durante la Segunda Guerra Mundial. En la frontera entre Europa y Rusia, pelean soldados estonios. Algunos en el Ejército Rojo ruso y otros en las Waffen SS alemanas; en este caso, dos hermanos que luchan en bandos contrarios se encuentran enfrentados.",
+        "img_url": "img\/cartelera\/1944.jpg",
+        "duration": "96",
+        "genders": [
+            "Guerra",
+            "Drama"
+        ],
+        "comments": [],
+        "rating": [],
+        "cines": [
+            {
+                "name": "Cinesur Nervión",
+                "direction": "Avenida Luis de Morales , CP41005, Sevilla (Sevilla)",
+                "tlf": "954533035",
+                "long": 37.3836679,
+                "lat": -5.9744633,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "15:50",
+                            "18:10"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "22:15"
+                        ]
+                    },
+                    {
+                        "name": "Miércoles",
+                        "hora": [
+                            "15:25",
+                            "20:25",
+                            "23:00"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00",
+                            "19:15",
+                            "21:00"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "18:25",
+                            "22:00",
+                            "00:15"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "14:50",
+                            "18:45",
+                            "21:00"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "18:25",
+                            "20:00"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Alicia a través del espejo",
+        "synopsis": "Nueva aventura de fantasía en un mundo donde nada es lo que parece. El País de las maravillas vuelve a acoger la visita de alguien inesperado que descubrirá poco a poco que las leyes y los seres que habitan allí son mágicamente imposibles. El Sombrerero Loco (Johnny Depp, ‘Piratas del Caribe: la Maldición de la Perla Negra’) vuelve a prestar su ayuda a favor de la justicia, la locura y por supuesto, la amistad. Cuando todo parece perdido y confuso, el camino hacia la realidad será dejarse llevar por el insólito ambiente que les rodea, dejándose envolver por una lucha que será decisiva para la salvación del reino.",
+        "img_url": "img\/cartelera\/alicia.jpg",
+        "duration": "108",
+        "genders": [
+            "Aventura",
+            "Familia",
+            "Fantasía"
+        ],
+        "comments": [],
+        "rating": [],
+        "cines": [
+            {
+                "name": "Cinesur Nervión",
+                "direction": "Avenida Luis de Morales , CP41005, Sevilla (Sevilla)",
+                "tlf": "954533035",
+                "long": 37.3836679,
+                "lat": -5.9744633,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "16:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "16:00",
+                            "18:25,20:45"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00",
+                            "18:00",
+                            "21:15"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "20:25",
+                            "00:15"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "17:35",
+                            "20:00",
+                            "23:25"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "18:25",
+                            "21:00"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ábaco Cines Camas",
+                "direction": "Avenida Poeta Muñoz San Román , CP41900, Camas (Sevilla).",
+                "tlf": "954391012",
+                "long": 37.3921715,
+                "lat": -6.0298088,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "16:00",
+                            "18:15",
+                            "20:30 ",
+                            "22:45"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "16:00",
+                            "18:00",
+                            "20:00"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "13:00",
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00",
+                            ""
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "13:00",
+                            "20:25",
+                            "00:15"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "13:00",
+                            "00:25"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "13:00",
+                            "18:25",
+                            "21:00"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Angry Birds. La película",
+        "synopsis": "Basada en la saga de videojuegos Angry Birds, la historia se desarrolla en una isla poblada enteramente por aves felices que no vuelan... o casi enteramente. En este paraíso, Red, un pájaro con problemas de mal genio, el veloz Chuck y el volátil Bomb nunca han terminado de encajar. Pero, cuando la isla recibe la visita de unos misteriosos cerdos verdes, tendrán que ser estos insólitos marginados los que descubran qué traman esos cerdos.",
+        "img_url": "img\/cartelera\/angry_birds.jpg",
+        "duration": "97",
+        "genders": [
+            "Acción",
+            "Animación",
+            "Comedia",
+            "Familia"
+        ],
+        "comments": [],
+        "rating": [],
+        "cines": [
+            {
+                "name": "Cinesur Nervión",
+                "direction": "Avenida Luis de Morales , CP41005, Sevilla (Sevilla)",
+                "tlf": "954533035",
+                "long": 37.3836679,
+                "lat": -5.9744633,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "14:05",
+                            "16:30",
+                            "00:00"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "16:00",
+                            "18:25,20:45"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "13:00",
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00",
+                            "18:00"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "13:00",
+                            "20:25",
+                            "00:15"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "13:00",
+                            "16:20",
+                            "23:25"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "13:00",
+                            "18:25",
+                            "21:00"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ábaco Cines Camas",
+                "direction": "Avenida Poeta Muñoz San Román , CP41900, Camas (Sevilla).",
+                "tlf": "954391012",
+                "long": 37.3921715,
+                "lat": -6.0298088,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "16:00",
+                            "18:15",
+                            "20:30 ",
+                            "22:45"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "16:00",
+                            "18:00",
+                            "20:00"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "13:00",
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00",
+                            ""
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "13:00",
+                            "20:25",
+                            "00:15"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "13:00",
+                            "00:25"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "13:00",
+                            "18:25",
+                            "21:00"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Dioses de Egipto",
+        "synopsis": "La supervivencia de la humanidad pende de un hilo al tiempo que un inesperado héroe mortal llamado Bek emprende un viaje para salvar el mundo y rescatar a su verdadero amor. Para tener éxito, deberá contar con la ayuda del poderoso Dios, Horus, formando una improbable alianza contra Set, el despiadado Dios de la oscuridad que ha usurpado el trono de Egipto, sumiendo al en su día próspero y pacífico imperio en el caos. Mientras su batalla contra Set y sus secuaces les lleva al Más Allá a través de los cielos, el Dios y el mortal deberán pasar pruebas de valentía y sacrificio si quieren tener esperanzas de prevalecer cuando llegue la confrontación final.",
+        "img_url": "img\/cartelera\/egipto.jpg",
+        "duration": "97",
+        "genders": [
+            "Acción",
+            "Aventura",
+            "Fantasía"
+        ],
+        "comments": [],
+        "rating": [
+            {
+                "user": "user1",
+                "rating": 1
+            }
+        ],
+        "cines": [
+            {
+                "name": "Cinesur Nervión",
+                "direction": "Avenida Luis de Morales , CP41005, Sevilla (Sevilla)",
+                "tlf": "954533035",
+                "long": 37.3836679,
+                "lat": -5.9744633,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "14:05",
+                            "16:30",
+                            "00:00"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "16:00",
+                            "18:25,20:45"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "13:00",
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00",
+                            "18:00"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "13:00",
+                            "20:25",
+                            "00:15"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "13:00",
+                            "16:20",
+                            "23:25"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "13:00",
+                            "18:25",
+                            "21:00"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ábaco Cines Camas",
+                "direction": "Avenida Poeta Muñoz San Román , CP41900, Camas (Sevilla).",
+                "tlf": "954391012",
+                "long": 37.3921715,
+                "lat": -6.0298088,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "16:00",
+                            "18:15",
+                            "20:30 ",
+                            "22:45"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "16:00",
+                            "18:00",
+                            "20:00"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "13:00",
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00",
+                            ""
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "13:00",
+                            "20:25",
+                            "00:15"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "13:00",
+                            "00:25"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "13:00",
+                            "18:25",
+                            "21:00"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Capitán Kóblic",
+        "synopsis": "Tomás Kóblic (Ricardo Darín) es un ex capitán de la Armada que en tiempos de la última dictadura argentina, era participe de “los vuelos de la muerte”, denominados así porque arrojaban vivos a los detenidos-desaparecidos al Río de la Plata. Abandonará informalmente su carrera militar para refugiarse en Colonia Helena, donde la única ley que impera es la del comisario Velarde (Oscar Martínez), un delincuente con uniforme policial, líder de una banda de robo de ganado, y oscuros vínculos con jerarcas militares.",
+        "img_url": "img\/cartelera\/capitan.jpg",
+        "duration": "97",
+        "genders": [
+            "Suspense",
+            "Crimen",
+            "Historia"
+        ],
+        "comments": [],
+        "rating": [
+            {
+                "user": "user1",
+                "rating": 1
+            }
+        ],
+        "cines": [
+            {
+                "name": "Cinesur Nervión",
+                "direction": "Avenida Luis de Morales , CP41005, Sevilla (Sevilla)",
+                "tlf": "954533035",
+                "long": 37.3836679,
+                "lat": -5.9744633,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "16:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "16:00",
+                            "18:25,20:45"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00",
+                            "18:00",
+                            "21:15"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "20:25",
+                            "00:15"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "17:35",
+                            "20:00",
+                            "23:25"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "18:25",
+                            "21:00"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Demolición",
+        "synopsis": "Un exitoso banquero de inversión lucha después de perder a su esposa en un trágico accidente automovilístico. Con la ayuda de un representante de servicio al cliente y su hijo, comienza a reconstruirse a partir de la demolición de la vida que una vez conoció.",
+        "img_url": "img\/cartelera\/demolition.jpg",
+        "duration": "100",
+        "genders": [
+            "Comedia",
+            "Drama"
+        ],
+        "comments": [],
+        "rating": [
+            {
+                "user": "user1",
+                "rating": 1
+            }
+        ],
+        "cines": [
+            {
+                "name": "Cinesur Nervión",
+                "direction": "Avenida Luis de Morales , CP41005, Sevilla (Sevilla)",
+                "tlf": "954533035",
+                "long": 37.3836679,
+                "lat": -5.9744633,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "21:30"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "16:00",
+                            "20:45"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "17:30",
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "19:45",
+                            "21:15"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "20:25",
+                            "22:45"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "19:00",
+                            "23:25"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "18:25",
+                            "21:00"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Dos buenos tipos",
+        "synopsis": "Los Angeles. Años 70. Jackson Healy, un alcohólico en rehabilitación, y Holland March, detective privado alcohólico se unen gracias al suicidio de una estrella del porno en decadencia. Sin embargo, la tía de la chica está convencida de que ha visto a su sobrina viva, sobre todo después de que saliera la historia en todos los medios. March decide investigar el caso porque necesita dinero, y en unos días, aparece metido en medio de una conspiración de asesinatos de largo alcance, extrañamente arraigada en la niebla de la industria automovilística de Estados Unidos ",
+        "img_url": "img\/cartelera\/dos_buenos.jpg",
+        "duration": "116",
+        "genders": [
+            "Comedia",
+            "Crimen",
+            "Suspense",
+            "Misterio"
+        ],
+        "comments": [],
+        "rating": [],
+        "cines": [
+            {
+                "name": "Cinesur Nervión",
+                "direction": "Avenida Luis de Morales , CP41005, Sevilla (Sevilla)",
+                "tlf": "954533035",
+                "long": 37.3836679,
+                "lat": -5.9744633,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "16:00",
+                            "21:00"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "16:00",
+                            "18:25"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "13:00",
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "13:00",
+                            "20:25",
+                            "00:15"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "13:00",
+                            "17:20",
+                            "00:25"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "13:00",
+                            "18:25"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "El libro de la selva",
+        "synopsis": "Después de ser abandonado en la selva, una familia de lobos cría al pequeño cachorro humano Mowgli. Gracias a la manada de lobos, sale adelante hasta ser capaz de enfrentarse por sí mismo a los peligros de la selva. Pero con la llegada del peligroso Shere Khan, Mowgli deja de ser bien recibido. Este temible tigre, resentido por las heridas que le ha ocasionado el hombre, ha prometido eliminar toda amenaza humana en la selva. Así que a Mowgli no le queda más remedio que abandonar el único hogar que ha conocido en toda su vida. El pequeño niño humano emprenderá entonces un arriesgado y fascinante viaje de autodescubrimiento, para regresar junto a su especie, acompañado de la siempre fiel Bagheera, la pantera mentora del niño, y el despreocupado y divertido oso Baloo. Esta nueva adaptación de El Libro de la selva de Rudyard Kipling, que combina acción real con escenarios fotorrealistas y animales generados por ordenador, corre a cargo de Disney.",
+        "img_url": "img\/cartelera\/selva.jpg",
+        "duration": "106",
+        "genders": [
+            "Aventura",
+            "Drama",
+            "Fantasía"
+        ],
+        "comments": [],
+        "rating": [
+            {
+                "user": "user1",
+                "rating": 2
+            }
+        ],
+        "cines": [
+            {
+                "name": "Cinesur Nervión",
+                "direction": "Avenida Luis de Morales , CP41005, Sevilla (Sevilla)",
+                "tlf": "954533035",
+                "long": 37.3836679,
+                "lat": -5.9744633,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "16:00",
+                            "21:00"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "16:00",
+                            "18:25"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "13:00",
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "13:00",
+                            "20:25",
+                            "00:15"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "13:00",
+                            "17:20",
+                            "00:25"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "13:00",
+                            "18:25"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Esperando al rey",
+        "synopsis": "Alan Clay (Tom Hanks) es un empresario estadounidense que, huyendo de la recesión, se traslada a Arabia Saudí, donde la economía se encuentra en pleno auge, para salvar su situación económica y poder mantener unida a su familia.",
+        "img_url": "img\/cartelera\/esperando.jpg",
+        "duration": "97",
+        "genders": [
+            "Comedia",
+            "Drama"
+        ],
+        "comments": [],
+        "rating": [
+            {
+                "user": "user1",
+                "rating": 5
+            }
+        ],
+        "cines": [
+            {
+                "name": "Cinesur Nervión",
+                "direction": "Avenida Luis de Morales , CP41005, Sevilla (Sevilla)",
+                "tlf": "954533035",
+                "long": 37.3836679,
+                "lat": -5.9744633,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "14:05",
+                            "16:30",
+                            "00:00"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "16:00",
+                            "18:25,20:45"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "13:00",
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00",
+                            "18:00"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "13:00",
+                            "20:25",
+                            "00:15"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "13:00",
+                            "16:20",
+                            "23:25"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "13:00",
+                            "18:25",
+                            "21:00"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Green Room",
+        "synopsis": "Los miembros de una banda de música punk, tras ser los únicos testigos de un asesinato en un bar, son encerrados en una habitación del local por los autores del homicidio: una pandilla aterradora de skinheads, neonazis de supremacía blanca, liderados por el dueño del bar (Patrick Stewart), un tipo que no quiere dejar testigos de lo sucedido.",
+        "img_url": "img\/cartelera\/green.jpg",
+        "duration": "97",
+        "genders": [
+            "Crimen",
+            "Suspense"
+        ],
+        "comments": [],
+        "rating": [],
+        "cines": [
+            {
+                "name": "Cinesur Nervión",
+                "direction": "Avenida Luis de Morales , CP41005, Sevilla (Sevilla)",
+                "tlf": "954533035",
+                "long": 37.3836679,
+                "lat": -5.9744633,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "16:00",
+                            "21:00"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "16:00",
+                            "18:25"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "13:00",
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "13:00",
+                            "20:25",
+                            "00:15"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "13:00",
+                            "17:20",
+                            "00:25"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "13:00",
+                            "18:25"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Malditos vecinos 2",
+        "synopsis": "La secuela la comedia estrenada en 2014, comienza cuando una fraternidad se muda a la casa de Mac y Kelly Radner. Entonces ellos para solucionar el problema recurrirán a la ayuda de su antiguo enemigo: Teddy Sanders, el líder de la hermandad juvenil Delta Psi Beta. ",
+        "img_url": "img\/cartelera\/malditos_vecinos.jpg",
+        "duration": "92",
+        "genders": [
+            "Comedia"
+        ],
+        "comments": [],
+        "rating": [],
+        "cines": [
+            {
+                "name": "Cinesur Nervión",
+                "direction": "Avenida Luis de Morales , CP41005, Sevilla (Sevilla)",
+                "tlf": "954533035",
+                "long": 37.3836679,
+                "lat": -5.9744633,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "21:30"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "16:00",
+                            "20:45"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "16:30",
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "19:30",
+                            "21:15"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "20:25",
+                            "22:45"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "20:00",
+                            "23:25"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "18:25",
+                            "21:00"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Mi hija, mi hermana",
+        "synopsis": "Una inmensa pradera, en el este de Francia, acoge un encuentro de amantes del estilo de vida country y del Lejano Oeste americano. Alain baila con su hija Kelly, de 16 años, mientras su esposa y el hijo pequeño de la familia, Kid, los miran desde un segundo plano. Pero ese mismo día Kelly desaparece y la familia se desmorona. Alain emprende una búsqueda sin tregua para encontrar a su hija, aunque le cueste todo lo que tiene y le lleve a recorrer lugares remotos: lugares siniestros e inquietantes en los que el único apoyo se lo dará Kid, quien sacrifica su juventud para acompañar a su padre en una misión que parece interminable.  ",
+        "img_url": "img\/cartelera\/mi_hija.jpg",
+        "duration": "104",
+        "genders": [
+            "Drama"
+        ],
+        "comments": [
+            {
+                "user": "user1",
+                "comment": "cometario"
+            }
+        ],
+        "rating": [],
+        "cines": [
+            {
+                "name": "Cinesur Nervión",
+                "direction": "Avenida Luis de Morales , CP41005, Sevilla (Sevilla)",
+                "tlf": "954533035",
+                "long": 37.3836679,
+                "lat": -5.9744633,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "21:30"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "16:00",
+                            "20:45"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "16:30",
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "19:30",
+                            "21:15"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "20:25",
+                            "22:45"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "20:00",
+                            "23:25"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "18:25",
+                            "21:00"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Mi panadería en Brooklyn",
+        "synopsis": "Chloe y Vivien son dos primas que heredan la histórica panadería de su tía, pero tienen visiones muy distintas acerca de lo que quieren hacer con ella: mantener la esencia vintage o cambiar radicalmente el negocio y adaptarlo a la gentrificación de Brooklyn. Pero no solo tienen opiniones distintas en el negocio, sino también en el amor. Sin embargo, tendrán que unirse cuando descubran que el local está en peligro de ser desahuciado.",
+        "img_url": "img\/cartelera\/panaderia.jpg",
+        "duration": "101",
+        "genders": [
+            "Romance",
+            "Comedia"
+        ],
+        "comments": [],
+        "rating": [],
+        "cines": [
+            {
+                "name": "Cinesur Nervión",
+                "direction": "Avenida Luis de Morales , CP41005, Sevilla (Sevilla)",
+                "tlf": "954533035",
+                "long": 37.3836679,
+                "lat": -5.9744633,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "21:30"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "16:00",
+                            "20:45"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00",
+                            "19:30",
+                            "21:15"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "20:25",
+                            "00:15"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "20:00",
+                            "23:25"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "18:25",
+                            "21:00"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Si Dios quiere",
+        "synopsis": "Tommaso es un cardiólogo de fama y hombre de firmes creencias, ateo y liberal. Está casado con Carla, ama de casa y madre de dos hijos. Uno de ellos, Andrea, prometedor estudiante de medicina, revoluciona a la familia con su noticia: quiere hacerse cura.",
+        "img_url": "img\/cartelera\/si_dios.jpg",
+        "duration": "87",
+        "genders": [
+            "Comedia"
+        ],
+        "comments": [],
+        "rating": [
+            {
+                "user": "user1",
+                "rating": 5
+            }
+        ],
+        "cines": [
+            {
+                "name": "Cinesur Nervión",
+                "direction": "Avenida Luis de Morales , CP41005, Sevilla (Sevilla)",
+                "tlf": "954533035",
+                "long": 37.3836679,
+                "lat": -5.9744633,
+                "sesions": [
+                    {
+                        "name": "Lunes",
+                        "hora": [
+                            "16:30",
+                            "20:30"
+                        ]
+                    },
+                    {
+                        "name": "Martes",
+                        "hora": [
+                            "16:00",
+                            "18:25,20:45"
+                        ]
+                    },
+                    {
+                        "name": "Miercoles",
+                        "hora": [
+                            "20:25"
+                        ]
+                    },
+                    {
+                        "name": "Jueves",
+                        "hora": [
+                            "16:00",
+                            "18:00",
+                            "21:15"
+                        ]
+                    },
+                    {
+                        "name": "Viernes",
+                        "hora": [
+                            "20:25",
+                            "00:15"
+                        ]
+                    },
+                    {
+                        "name": "Sabado",
+                        "hora": [
+                            "17:35",
+                            "20:00",
+                            "23:25"
+                        ]
+                    },
+                    {
+                        "name": "Domingo",
+                        "hora": [
+                            "18:25",
+                            "21:00"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

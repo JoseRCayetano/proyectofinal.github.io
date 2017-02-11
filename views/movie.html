@@ -1,0 +1,58 @@
+<usermenu></usermenu>
+<navigatorusermenu></navigatorusermenu>
+
+<div id="movieFile" class="container" ng-controller="movieController">
+	<article ng-repeat="pelicula in cartelera | filter:{title: title}:true">
+		<div class="row">
+			<div class="page-header">
+				<h1>Ficha de la película</h1>
+			</div>
+			<div class="col-md-4">
+				<img class="img-responsive  " ng-src="{{pelicula.img_url}}" />
+				<div ng-controller="ratingController">
+				    <h4>Rating</h4>
+				    <uib-rating ng-model="rate" max="max" read-only="isReadonly" on-hover="hoveringOver(value)" on-leave="overStar = null" titles="['one','two','three']" aria-labelledby="default-rating" ng-click="saveValue(rate)"></uib-rating>
+				    <span class="label" ng-class="{'label-warning': percent<30, 'label-info': percent>=30 && percent<70, 'label-success': percent>=70}" ng-show="overStar && !isReadonly">{{percent}}%</span>
+				</div>
+			</div>
+			<div class="col-md-8">
+				<!--Datos & boton evento & boton mapa boton seleccion cine -->
+				<h2>{{pelicula.title}}</h2>
+				<ul class="list-unstyled list-inline">
+					<li ng-repeat="gender in pelicula.genders">{{gender}}</li>
+				</ul>
+				<p>{{pelicula.synopsis}}</p>
+				<p>Duración {{pelicula.duration}} min</p>
+				<ul class="list-unstyled list-inline">
+					<li>
+			            <div class="btn-group">
+			              
+			              <a href="bootstrap-elements.html" data-target="#" class="btn btn-primary" data-toggle="dropdown">Ver disponibilidad en cines&nbsp;&nbsp;<span class="caret"></span></a>
+			              <ul class="dropdown-menu">
+			                <li  ng-repeat="cine in pelicula.cines"><a href="#/cine/{{pelicula.title}}/{{cine.name}}">{{cine.name}}</a></li>
+			              </ul>
+			            </div>
+					</li>	
+				</ul>	
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-12">
+				<h2>Comentarios sobre la película</h2>
+				<h4>Escribe un comentario</h4>
+				<textarea  ng-model="comment"></textarea>
+				<button type="button" class="btn btn-primary text-center" ng-click="sendComment(comment,pelicula.title)">Enviar comentario</button>
+				<ul class="list-unstyled ">
+					<li ng-repeat="comment in comments " class="well">
+						<h4><strong>{{comment.user}}</strong></h4>
+						<p>
+						{{comment.comment}}
+						</p>
+					<li>
+					
+				</ul>
+			</div>
+		</div>
+	</article>	
+</div>
+

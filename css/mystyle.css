@@ -1,0 +1,245 @@
+article {
+  /*height: 100px;*/
+  height: 300px;
+  height: auto;
+}
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+#cartelera article{
+	margin-top: 20px;
+}
+.card .card-body{
+	padding: 10px !important;
+}
+.glyphicon {
+	font-size: 18px;
+}
+.card{
+	cursor: pointer;
+}
+.red {
+	color:red;
+}
+.img-movie{
+	height: 500px;
+	width: 300px;
+}
+.input-group{
+	background-color: white!important;
+}
+.navbar {
+	margin-bottom: 0;
+}
+textarea{
+	width: 100%;
+	height: 150px;
+	resize: none;
+}
+.angular-google-map {
+             
+            height: 300px;
+        }
+
+/* Date style*/
+ .full button span {
+    background-color: limegreen;
+    border-radius: 32px;
+    color: black;
+  }
+  .partially button span {
+    background-color: orange;
+    border-radius: 32px;
+    color: black;
+  }
+
+.blue {
+  color: blue; 
+}
+.green{
+  color: green; 
+}
+.red{
+  color: red; 
+}
+.no-padding {
+  padding: 0;
+}
+
+
+.navbar-inverse{
+  background-color: #152C55 !important;
+}
+.navbar-inverse li:hover{
+  background-color: rgba(255,255,255,0.5)
+}
+/* CSS Menu Landing page*/
+
+
+
+/* register */ 
+#register {
+  background: url('../img/design/register.jpg') fixed center no-repeat;
+  background-size:100%;
+  width:100%;
+  height: 100%;
+  min-height: 1080px;
+}
+#login {
+  background: url('../img/design/login.jpg') fixed center no-repeat;
+  background-size:100%;
+  width:100%;
+  height: 100%;
+  min-height: 1080px;
+}
+
+/*
+.button-landingpage{
+  /*background-color: rgba(250,250,250,0.5);!important
+}*/
+#landing-info  {
+  font-size: 2em;
+  margin-top:20px;
+  margin-bottom:20px;
+}
+#landing-info i {
+  font-size: 2.5em;
+}
+#landing-info h2{
+  color: #2a77f9;
+  font-weight: 400;
+
+}
+#landing-info p {
+  font-weight: 400;
+}
+/* Footer bottom */
+
+
+html,body {
+  height: 100%;
+background-color:#2D4671;
+color: white;
+}
+#wrap {
+  min-height: 100%;
+}
+#main {
+  overflow:auto;
+  padding-bottom: 150px;
+}
+
+.footer {
+  position: relative;
+  margin-top: -150px; /* negative value of footer height */
+  height: 150px;
+  clear:both;
+  padding-top:20px;
+  background-color: #21364c;
+  margin-top: 0px;
+} 
+
+.footer .fa {
+  font-size: 24px;
+  margin-top: 10px;
+}.footer h2{
+  margin-top: 0px;
+}
+/* user menu */
+.back-user-menu{
+  background-color: #4D658D !important;
+}
+
+/* hidde scrolls bars*/
+::-webkit-scrollbar { 
+    display: none; 
+}
+.activesubmenu{
+  border-bottom: 1px solid red;
+  background-color: rgba(0,0,0,0.5)!important;
+}
+.navigator-user-menu ul li:hover{
+  cursor: pointer;
+}
+
+/* Form Style */
+form {
+  background-color: rgba(255,255,255,0.9);
+  color: black;
+  border-radius: 20px;
+  padding: 20px;
+  margin: 30px auto;
+}
+form .fa{
+  font-size: 43px;
+  color:#2D4671;
+}
+/* Active exterior menu*/
+.active {
+  background-color: rgba(42, 131, 218, 0.5) !important;
+  
+}
+#top-menu  li:hover{
+  background-color: transparent;
+}
+.menu-hover:hover {
+  background-color: rgba(255,255,255,0.5)!important;
+}
+
+/* SUb menu */
+.nav-tabs {
+  border-bottom: 0;
+}
+.nav-tabs li {
+  height: 60px;
+}
+
+/* Ficha movie */
+.glyphicon-star{
+  color: #cec908;
+  font-size: 20px;
+}
+.well, textarea {
+  color: black;
+}
+.btn-primary {
+  background-color: #041b25 !important;
+}
+
+/* Ranking Style */
+
+#ranking-movie .list-group-item:hover {
+  background-color: rgba(255,255,255,0.5);
+}
+#ranking-movie a:hover{
+  text-decoration: none;
+
+}
+.rating-number {
+  font-size:24px;
+}
+/* Main Style */
+#cartelera {
+  margin-bottom: 10px;
+}
+.input-group {
+  color: black;
+}
+.input-group input{
+
+}
+
+/* Show events */
+.panel-heading{
+  background-color: #467eab!important;
+}
+.panel-heading a:hover,.panel-heading a:focus{
+  text-decoration: none;
+  color: white;
+}
+.panel-body {
+  color: black;
+}
+

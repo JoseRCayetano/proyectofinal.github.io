@@ -1,0 +1,54 @@
+	<nglandingmenu></nglandingmenu>
+	<div ng-controller="carouselController">
+		<div class="container-fluid no-padding">
+			<div class="row no-padding">
+				<div class="col-md-12" >
+					<div style="">
+						
+						<uib-carousel active="active" interval="myInterval" no-wrap="noWrapSlides">
+							<uib-slide ng-repeat="slide in slides track by slide.id" index="slide.id">
+							<img   ng-src="{{slide.image}}" style="width:100%;   " class="img-responsive">
+								<div class="carousel-caption">
+									<h2>{{slide.text}}</h2>
+								</div>
+							</uib-slide>
+						</uib-carousel>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<h2 class="text-center"><strong>¿Por qué Secine?</strong></h2>
+				</div>
+			</div>
+		</div>
+		<div class="container" id="landing-info">
+			<div class="row">
+				<div class="col-md-4 text-center">
+					<i class="fa fa-film" aria-hidden="true"></i>
+					<h2>Cine</h2>
+					<p>Disfruta del mejor cine de cartelera en Sevilla con Secine. Donde encontrarás toda la informacíon del cine en Sevilla</p>
+				</div>
+				<div class="col-md-4 text-center">
+					<i class="fa fa-calendar" aria-hidden="true"></i>
+					<h2>Eventos</h2>
+					<p>Crea eventos cada vez que quieras ir al cine en Sevilla y disfruta de la mejor compañía</p>
+				</div>
+				<div class="col-md-4 text-center">
+					<i class="fa fa-users" aria-hidden="true"></i>
+					<h2>Gente</h2>
+					<p>Conoce gente nueva con tus mismos gustos e intereses y haz nuevas amistades</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+		
+
+
+
+
+
+

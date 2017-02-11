@@ -1,0 +1,49 @@
+<usermenu></usermenu>
+<navigatorusermenu></navigatorusermenu>
+<div class="container" ng-controller="personalAreaController">
+	<div class="page-header">
+		<h1>Películas vistas </h1>
+	</div>
+	<div class="row">
+		<div  ng-repeat="pelicula in cartelera ">
+			<article ng-if="check('view',pelicula.title)" class=" col-xs-6  col-md-2">
+				<div class="card">
+					<div class="card-image">
+						<a href="#/movie/{{pelicula.title}}"><img ng-src="{{pelicula.img_url}}" class="img-responsive"/></a>
+					</div>
+				</div>
+				<div class="card-body"></div>
+			</article>
+		</div>
+	</div>
+	<div class="page-header">
+		<h1>Películas pendientes de ver</h1>
+	</div>
+	<div class="row">
+		<div ng-repeat="pelicula in cartelera ">
+			<article ng-show="check('bookmark',pelicula.title)" class="col-xs-6 col-md-2">
+				<div class="card">
+					<div class="card-image">
+						<a href="#/movie/{{pelicula.title}}"><img ng-src="{{pelicula.img_url}}" class="img-responsive"/></a>
+					</div>
+				</div>
+				<div class="card-body"></div>
+			</article>
+		</div>
+	</div>
+	<div class="page-header">
+		<h1>Me gusta</h1>
+	</div>
+	<div class="row">
+		<div  ng-repeat="pelicula in cartelera ">
+			<article ng-hide ="!check('favorite',pelicula.title)" ng-show="check('favorite',pelicula.title)" class=" col-xs-6  col-md-2">
+				<div class="card">
+					<div class="card-image">
+						<a href="#/movie/{{pelicula.title}}"><img ng-src="{{pelicula.img_url}}" class="img-responsive"/></a>
+					</div>
+				</div>
+				<div class="card-body"></div>
+			</article>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,47 @@
+<usermenu></usermenu>
+<navigatorusermenu></navigatorusermenu>
+
+<div id="ranking-movie" class="container" ng-controller="movieRatingController">
+	<div class="row">
+		<div class="page-header">
+		<h1>Ranking <small>de cartelera</small></h1>
+		</div>
+		<div class="col-md-6">
+			<div class="list-group">
+				<div class="list-group-item" ng-repeat="movie in col_left" >
+					<a href="#/movie/{{movie.title}}">
+						<div class="row-picture">
+							<img class="circle" ng-src="{{movie.img_url}}" alt="icon">
+						</div>
+						<div class="row-content">
+							<h4 class="list-group-item-heading">{{movie.title}}</h4>
+							<span class="rating-number">{{movie.totalRating}}</span>
+							<span class="glyphicon glyphicon-star"></span>
+						</div>
+					</a>
+					<div class="list-group-separator"></div>
+				</div>		
+				
+			</div>
+		</div>
+		<div class="col-md-6">
+			<div class="list-group">
+				<div class="list-group-item" ng-repeat="movie in col_rigth ">
+					<a href="#/movie/{{movie.title}}">
+						<div class="row-picture">
+							<img class="circle" ng-src="{{movie.img_url}}" alt="icon">
+						</div>
+						<div class="row-content">
+							<h4 class="list-group-item-heading">{{movie.title}}</h4>
+							<span class="rating-number">{{movie.totalRating}}</span>
+							<span class="glyphicon glyphicon-star"></span>
+						</div>
+					</a>
+					<div class="list-group-separator"></div>
+				</div>		
+				
+			</div>
+		</div>
+	</div>
+</div>
+</div>

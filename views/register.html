@@ -1,0 +1,96 @@
+<nglandingmenu></nglandingmenu>
+<div id="register" class="container" ng-controller="formRegisterController">
+  <div class="row">
+    <div class="col-md-6 col-md-offset-3">
+      <form name="form" class="form-horizontal">
+        <div class="form-top-left col-md-12">
+          <h3>Regístrate Ahora</h3>
+          <p>Y disfruta del mejor cine en la mejor compañía!</p>
+        </div>
+        <div class="form-group">
+         <!--<label for="inputUser" class="col-sm-2 control-label">Usuario</label>-->
+         <label for="inputUser" class="col-md-2 control-label">
+          <i class="fa fa-user" aria-hidden="true"></i>
+        </label>
+        <div class="col-md-8">
+          <input type="text" name="user" placeholder="User name..." class="form-user-name form-control con-sm-10" id="form-user-name" ng-model="user" required>
+          <div ng-messages="form.user.$error" >
+            <p ng-message="required"> Campo obligatorio</p>
+          </div>
+        </div>
+        <div class="col-sm-offset-2"></div>
+      </div>
+      <div class="form-group">
+        <!--<label for="inputPassword3" class="col-sm-2 control-label">Password</label>-->
+        <label for="inputPassword3" class="col-md-2 control-label">
+          <i class="fa fa-unlock-alt" aria-hidden="true"></i>
+        </label>
+        <div class="col-md-8">
+          <input type="password" name="password" placeholder="Passowrd.." class="form-password form-control" id="form-password " ng-model="password" required>
+          <div ng-messages="form.password.$error" >
+            <p ng-message="required"> Campo obligatorio</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <!--<label for="inputPassword3" class="col-md-2 control-label">Password</label>-->
+        <label for="first-name" class="col-md-2 control-label">
+          <i class="fa fa-pencil" aria-hidden="true"></i>
+        </label>
+        <div class="col-md-8">
+          <input type="text" name="firstname" placeholder="first name..." class="form-first-name form-control" id="form-first-name" ng-model="firstname" required>
+
+          <div ng-messages="form.firstname.$error" >
+            <p ng-message="required"> Campo obligatorio</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <!--<label for="inputPassword3" class="col-md-2 control-label">Password</label>-->
+        <label for="last-name" class="col-md-2 control-label">
+          <i class="fa fa-pencil" aria-hidden="true"></i>
+        </label>
+        <div class="col-md-8">
+          <input type="text" name="lastname" placeholder="last name..." class="form-last-name form-control" id="form-last-name" ng-model="lastname" required>
+          
+          <div ng-messages="form.lastname.$error" >
+            <p ng-message="required"> Campo obligatorio</p>
+          </div>
+        </div>
+      </div>
+
+
+ <div class="form-group">
+        <!--<label for="inputPassword3" class="col-md-2 control-label">Password</label>-->
+        <label for="email" class="col-md-2 control-label">
+          <i class="fa fa-envelope" aria-hidden="true"></i>
+        </label>
+        <div class="col-md-8">
+          <input type="text" name="email" placeholder="Email..." class="form-email form-control" id="form-email" ng-model="email" required>
+          
+          <div ng-messages="form.email.$error" >
+            <p ng-message="required"> Campo obligatorio</p>
+          </div>
+        </div>
+      </div>
+
+
+
+
+        <div class="form-group">
+          <div class="col-md-offset-2 col-md-10">
+            <button type="button" class="btn btn-raised btn-primary" ng-click="save(user)" ng-disabled="form.$invalid">¡Registrarse!</button>
+            <div ng-show="error && !success" class="alert alert-danger fade in">
+              <strong>Usuario ya registrado.</strong> Por favor introduzca otro nombre de usuario
+            </div>
+            <div ng-show="success && !error" class="alert alert-success fade in">
+              <strong>¡Usuario Registrado correctamente!.</strong> Ahora puede acceder a su perfil.
+            </div>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
